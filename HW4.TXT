@@ -1,0 +1,7 @@
+HW 4
+
+Compute the percentage of a student who scored 35 out of 50. 
+Hint: Use 2 variables for the expression and 1 variable to print it out.
+Submit a text file on Github by Monday 12pm. 
+Inability to do so will automatically result in a 0. 
+Email me if you still have doubts on how to upload a file on Github.
