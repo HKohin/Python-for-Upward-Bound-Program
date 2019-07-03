@@ -1,0 +1,14 @@
+Consider the following:
+Find the total amount remaining in the pocket. 
+
+Money in pocket = 100
+bill = 40 
+tip = 10% of the bill
+total bill = bill + tip  
+total money in pocket remaining
+
+I hope this is clear enough. Use common logic to get to the answer. Extra credits will be 
+given for using short hand notation. 
+
+The due date is 3 July 11:59pm. 
+ 
