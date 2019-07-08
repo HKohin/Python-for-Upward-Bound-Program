@@ -1,0 +1,8 @@
+HW7
+Make a python program where it asks the user his marks in python. (Input value from user)
+If Marks are above 50, the student passes the exam. 
+(Print ‘Student has passed the exam’)
+If Marks are less than 50 then the student fails the exam. 
+(Print ‘Student has failed the exam’)
+Hint: Open a main function and call it in the end.
+Note: Make sure you give proper indentations so as to not encounter an error. 
