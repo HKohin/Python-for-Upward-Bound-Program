@@ -1,0 +1,20 @@
+HW 8
+15 July 2019
+Upward Bound 
+
+1)	What does .append() method does? 
+2)	What does .remove() method does? 
+3)	What does .extend() method does? 
+4)	What is the difference between .pop() and .clear() method? 
+5)	Friends2 = Friends.copy() 
+In the above statement- what does the variable ‘Friends2’ carry? 
+
+
+Submit the answer on Github.com directly.
+
+Any other way of homework submission will not be accepted. You can finish this homework by Thursday night. 
+But I would highly recommend to finish it by today itself.
+
+
+
+
